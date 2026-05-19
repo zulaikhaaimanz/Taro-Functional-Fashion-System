@@ -47,11 +47,7 @@ The project includes prototype development and design exploration focused on cre
 
 ### Project Gallery
 
-(Add prototype images here)
-
-(Add website screenshots here)
-
-(Add demo images here)
+(https://github.com/zulaikhaaimanz/Taro-Functional-Fashion-System/blob/main/Website-Screenshots/website%20ss.jpeg?raw=true)
 
 ---
 
